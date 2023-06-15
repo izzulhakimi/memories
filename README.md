@@ -1,2 +1,2 @@
-# Social Media web site with MERN
+# website application with MERN
 
